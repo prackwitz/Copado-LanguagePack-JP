@@ -5,10 +5,6 @@
         <value>プロモーション</value>
     </caseValues>
     <fieldSets>
-        <label>SFDXエクステンション項目</label>
-        <name>cmcSf__SFDX_Extension_Fields</name>
-    </fieldSets>
-    <fieldSets>
         <label>コパードヘッダーフィールド</label>
         <name>copado__Copado_Header_Fields</name>
     </fieldSets>
@@ -24,28 +20,10 @@
         <label>パイプラインマネージャー</label>
         <name>copado__Pipeline_Manager</name>
     </fieldSets>
-    <fields>
+    <!--<fields>
         <label>マージコンフリクト</label>
         <name>Conflict__c</name>
-    </fields>
-    <fields>
-        <label>Apexテストレベル</label>
-        <name>cmcSf__Apex_Test_Level__c</name>
-    </fields>
-    <fields>
-        <help>これを有効にすると、git リポジトリの copadoDebug/&lt;PromotionNumber&gt; というブランチに、(このプロモーションの一部として) 宛先組織にデプロイされたソースファイルを見ることができます。</help>
-        <label>デバグモード</label>
-        <name>cmcSf__Debug_Mode__c</name>
-    </fields>
-    <fields>
-        <label>プロモーションブランチの再作成</label>
-        <name>cmcSf__Recreate_Promotion_Branch__c</name>
-    </fields>
-    <fields>
-        <help>検証の結果、ターゲットとなる組織でクイックデプロイが利用可能な場合、このフィールドには検証IDが含まれます。プロモーションがデプロイされた場合、クイックデプロイが自動的に使用されます。</help>
-        <label>デプロイリクエストIDの検証</label>
-        <name>cmcSf__Validate_Deploy_Request_Id__c</name>
-    </fields>
+    </fields>-->
     <fields>
         <label>バックプロモーションフラグ</label>
         <name>copado__Back_Promotion__c</name>
@@ -187,10 +165,6 @@
         <errorMessage>スクラッチ組織へのバックプロモーションは許可されていません</errorMessage>
         <name>copado__Scratch_Orgs_Disabled_for_Back_Promoting</name>
     </validationRules>
-    <webLinks>
-        <label><!-- Copado_AI_Companion --></label>
-        <name>copadoAiHelper__Copado_AI_Companion</name>
-    </webLinks>
     <webLinks>
         <label>ロールバック</label>
         <name>copado__Rollback</name>

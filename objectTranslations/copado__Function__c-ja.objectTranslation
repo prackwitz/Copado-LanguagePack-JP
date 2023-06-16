@@ -5,10 +5,6 @@
         <value>関数</value>
     </caseValues>
     <fields>
-        <label><!-- Parameter Options --></label>
-        <name>Parameter_Options__c</name>
-    </fields>
-    <fields>
         <help>この機能を識別するための一意な名前になります。関数の結果レコードには、レポートやダッシュボードでこれらの結果をフィルタリングするためのジョブタイプフィールドがあり、このAPI名も含まれています。</help>
         <label>API名</label>
         <name>copado__API_Name__c</name>
@@ -101,10 +97,6 @@
         </picklistValues>
     </fields>
     <nameFieldLabel>関数名</nameFieldLabel>
-    <quickActions>
-        <label><!-- Run Function --></label>
-        <name>Run_Function</name>
-    </quickActions>
     <validationRules>
         <errorMessage>API名は英数字のみ使用可能で、文字から始める必要があります。</errorMessage>
         <name>copado__Function_Name_must_Be_Alpha_Numeric</name>

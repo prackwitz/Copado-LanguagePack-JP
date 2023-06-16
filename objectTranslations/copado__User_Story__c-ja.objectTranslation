@@ -5,14 +5,6 @@
         <value>ユーザーストーリー</value>
     </caseValues>
     <fieldSets>
-        <label>テストクラスを追加</label>
-        <name>cmcSf__Add_Test_Classes</name>
-    </fieldSets>
-    <fieldSets>
-        <label>パッケージ配布に基づくパイプライン</label>
-        <name>cmcSf__PipelineBasedPackageDistribution</name>
-    </fieldSets>
-    <fieldSets>
         <label>バンドル</label>
         <name>copado__Bundle</name>
     </fieldSets>
@@ -199,10 +191,6 @@
         <help>このビジネス要件によって実現される年間価値</help>
         <label>年間ビジネス価値</label>
         <name>Yearly_Business_Value__c</name>
-    </fields>
-    <fields>
-        <label>Apexテストレベル</label>
-        <name>cmcSf__Apex_Test_Level__c</name>
     </fields>
     <fields>
         <label>受け入れ基準の状況</label>

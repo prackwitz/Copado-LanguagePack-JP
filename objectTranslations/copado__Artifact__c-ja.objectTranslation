@@ -4,24 +4,6 @@
         <plural>false</plural>
         <value>パッケージ</value>
     </caseValues>
-    <fieldSets>
-        <label>SFDXパッケージLightningページ</label>
-        <name>cmcSf__SFDX_Package_CustomFields</name>
-    </fieldSets>
-    <fields>
-        <help>パッケージングCLIコマンドに使用するAPIのバージョンです。指定しない場合は、デフォルト値（Dev Hubのapiバージョン）が使用されます。54.0などのフォーマットで指定します。 なお、子パッケージのバージョンでApi Versionも指定されている場合は、その値が使用されます。</help>
-        <label>APIバージョン</label>
-        <name>cmcSf__Api_Version__c</name>
-    </fields>
-    <fields>
-        <label>組織依存フラグ</label>
-        <name>cmcSf__IsOrgDependent__c</name>
-    </fields>
-    <fields>
-        <help>パッケージを作成するためのパスを指定するために使用します。このパスはリポジトリのsfdx-project.jsonで利用可能である必要があります。</help>
-        <label>パッケージパス</label>
-        <name>cmcSf__PackagePath__c</name>
-    </fields>
     <fields>
         <help>これは、マスターブランチにある、アーティファクトを保存できるリポジトリです。</help>
         <label>パッケージリポジトリ</label>
@@ -315,10 +297,6 @@
         <label>ユーザーストーリーバンドル</label>
         <name>copado__User_Story_Bundle</name>
     </recordTypes>
-    <validationRules>
-        <errorMessage>指定されたAPIバージョンが有効ではありません。正しいフォーマットである必要があります。</errorMessage>
-        <name>cmcSf__Api_Version_Format</name>
-    </validationRules>
     <validationRules>
         <errorMessage>パッケージ名はDXフォルダ構造に使用されています。そのため、パッケージ名は編集できません。</errorMessage>
         <name>copado__ArtifactNameCannotChange</name>

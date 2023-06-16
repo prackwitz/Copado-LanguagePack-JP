@@ -4,14 +4,14 @@
         <plural>false</plural>
         <value>ジョブステップ</value>
     </caseValues>
-    <fields>
+    <!--<fields>
         <label>テスト</label>
         <name>Test__c</name>
         <picklistValues>
             <masterLabel>Behavior</masterLabel>
             <translation>動作（Behavior)</translation>
         </picklistValues>
-    </fields>
+    </fields>-->
     <fields>
         <label>API名</label>
         <name>copado__ApiName__c</name>

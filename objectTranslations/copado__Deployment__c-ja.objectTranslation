@@ -29,11 +29,6 @@
         <name>Start_Time__c</name>
     </fields>
     <fields>
-        <help><!-- Link to open Copado AI Companion --></help>
-        <label><!-- Copado AI Companion Link --></label>
-        <name>copadoAiHelper__Copado_AI_Companion_Link__c</name>
-    </fields>
-    <fields>
         <help>デプロイメント手順などでテンプレートを検索する場合、アクティブなテンプレートのみが検索対象となります。</help>
         <label>アクティブ</label>
         <name>copado__Active__c</name>

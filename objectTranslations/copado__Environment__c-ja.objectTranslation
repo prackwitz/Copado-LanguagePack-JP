@@ -5,10 +5,6 @@
         <value>環境</value>
     </caseValues>
     <fields>
-        <label>Apexテストレベル</label>
-        <name>cmcSf__Apex_Test_Level__c</name>
-    </fields>
-    <fields>
         <help>このフィールドは、アクションで環境レコードを参照する際の識別子として使用します。</help>
         <label>API名</label>
         <name>copado__API_Name__c</name>
@@ -218,10 +214,6 @@
         </picklistValues>
     </fields>
     <nameFieldLabel>環境名</nameFieldLabel>
-    <validationRules>
-        <errorMessage>全てのデプロイメントにApexが含まれているのでない限り、環境レベルで、特定のテストの実行を設定することは推奨しません。</errorMessage>
-        <name>cmcSf__Prevent_RunSpecifiedTest_For_Environment</name>
-    </validationRules>
     <validationRules>
         <errorMessage>1つの環境では、プロモートとデプロイで同じ自動化テンプレートを持つことはできません。</errorMessage>
         <name>copado__Unique_Template_for_promote_and_deploy</name>
