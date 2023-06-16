@@ -11312,7 +11312,7 @@
     </customTabs>
     <prompts>
         <label>データセット・ウォークスルー</label>
-        <name>DataSetWalkthrough</name>
+        <name>copado__DataSetWalkthrough</name>
         <promptVersions>
             <body>&lt;p&gt;データセットは、ある組織データから取得されたデータをファイルにまとめたものになります。これらのファイルは、ユーザーが決定するまで、変更されずに保持されます。&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;span style=&quot;color：RGB（62,62,60;&quot;&gt;データセットはアカウントや連絡先、CPQ製品のコンフィグレーションや外部データソースなど様々なサンプルデータに対して作成されます。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;開発・テストのために、テストデータを含むデータセットを新しいサンドボックスや既存の環境に移行し活用して下さい。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</body>
             <header>データセットへようこそ</header>
@@ -11324,7 +11324,7 @@
     </prompts>
     <prompts>
         <label>ライセンスマネージャー　ウォークスルー</label>
-        <name>LicenseManagerWalkThrough</name>
+        <name>copado__LicenseManagerWalkThrough</name>
         <promptVersions>
             <actionButtonLabel>ライセンスマネジャーアーティクル</actionButtonLabel>
             <body>このプロンプトは無視してください。</body>
@@ -11337,7 +11337,7 @@
     </prompts>
     <prompts>
         <label>リリースマネジャーアプリケーションのためのライセンスマネジャー・ウォークスルー</label>
-        <name>LicenseManagerWalkThroughForRMApp</name>
+        <name>copado__LicenseManagerWalkThroughForRMApp</name>
         <promptVersions>
             <body>ライセンスマネージャーを全面的に刷新しました。新機能を知るには、ウォークスルーを続けてください。</body>
             <dismissButtonLabel>閉じる</dismissButtonLabel>
