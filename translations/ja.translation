@@ -241,7 +241,7 @@
         <name>copado__APEX_TEST</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>Apexテスト</label>
         <name>copado__APEX_TESTS</name>
     </customLabels>
     <customLabels>
@@ -600,7 +600,7 @@
         <name>copado__ApiKeyNotSet</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>{USER_API_KEY}</label>
         <name>copado__ApiKeyPlaceholder</name>
     </customLabels>
     <customLabels>
@@ -1720,7 +1720,7 @@
         <name>copado__ChildObjectError</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>子オブジェクト</label>
         <name>copado__Child_Objects</name>
     </customLabels>
     <customLabels>
@@ -2537,7 +2537,7 @@
         <name>copado__DETAIL</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>詳細</label>
         <name>copado__DETAILS</name>
     </customLabels>
     <customLabels>
@@ -2613,7 +2613,7 @@
         <name>copado__DURATION</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>DX</label>
         <name>copado__DX</name>
     </customLabels>
     <customLabels>
@@ -3539,7 +3539,7 @@
         <name>copado__EXTENSION_DETAILS</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>外部CI</label>
         <name>copado__EXTERNAL_CI_JOB</name>
     </customLabels>
     <customLabels>
@@ -3687,7 +3687,7 @@
         <name>copado__Environment_Variable</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>環境変数</label>
         <name>copado__Environment_Variables</name>
     </customLabels>
     <customLabels>
@@ -5422,7 +5422,7 @@
         <name>copado__MainObject</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>メインオブジェクトフィルター</label>
         <name>copado__Main_Object_Filter</name>
     </customLabels>
     <customLabels>
@@ -6366,7 +6366,7 @@
         <name>copado__Object_Field_Help_Text</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>オブジェクトフィールド</label>
         <name>copado__Object_Fields</name>
     </customLabels>
     <customLabels>
@@ -6822,7 +6822,7 @@
         <name>copado__ParentObjectError</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>親オブジェクト</label>
         <name>copado__Parent_Objects</name>
     </customLabels>
     <customLabels>
@@ -7839,7 +7839,7 @@
         <name>copado__Related_Object</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>関係図</label>
         <name>copado__Relationship_Diagram</name>
     </customLabels>
     <customLabels>
@@ -7903,7 +7903,7 @@
         <name>copado__Remove_Row</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>選択したオプションを削除</label>
         <name>copado__Remove_Selected_Option</name>
     </customLabels>
     <customLabels>
@@ -8618,7 +8618,7 @@
         <name>copado__STEP_TYPE_MANUAL_TASK</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>メタデータ</label>
         <name>copado__STEP_TYPE_METADATA</name>
     </customLabels>
     <customLabels>
@@ -8667,7 +8667,7 @@
         <name>copado__SUCCEEDED</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>成功</label>
         <name>copado__SUCCESS</name>
     </customLabels>
     <customLabels>
@@ -9777,7 +9777,7 @@
         <name>copado__TC_WITH</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>テスト</label>
         <name>copado__TEST</name>
     </customLabels>
     <customLabels>
@@ -10425,7 +10425,7 @@
         <name>copado__USER_STORY_COVERAGE</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>ユーザーストーリーの定義</label>
         <name>copado__USER_STORY_DEFINITION</name>
     </customLabels>
     <customLabels>
@@ -10657,7 +10657,7 @@
         <name>copado__User_Lookup_Warnings</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>ユーザーストーリー</label>
         <name>copado__User_Stories</name>
     </customLabels>
     <customLabels>
@@ -10725,11 +10725,11 @@
         <name>copado__Using_Api_Keys</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>接続を検証</label>
         <name>copado__VALIDATE_EXTERNAL_CI</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label>検証</label>
         <name>copado__VALIDATION</name>
     </customLabels>
     <customLabels>
