@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
-    <!--<customApplications>
+    <customApplications>
         <label>コパードリリースマネジャー</label>
-        <name>Copado</name>
-    </customApplications>-->
-    <!--<customApplications>
+        <name>copado__Copado</name>
+    </customApplications>
+    <customApplications>
         <label>コパードテスト</label>
-        <name>CopadoTests</name>
-    </customApplications>-->
-    <customApplications>
-        <label>コパードパイプラインマネジャー</label>
-        <name>Copado_Branch_Management</name>
+        <name>copado__CopadoTests</name>
     </customApplications>
     <customApplications>
         <label>コパードパイプラインマネジャー</label>
-        <name>Copado_Branch_Management_Lightning</name>
+        <name>copado__Copado_Branch_Management</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードパイプラインマネジャー</label>
+        <name>copado__Copado_Branch_Management_Lightning</name>
     </customApplications>
     <customApplications>
         <label>コパードデプロイヤー</label>
-        <name>Copado_Change_Management</name>
+        <name>copado__Copado_Change_Management</name>
     </customApplications>
     <customApplications>
         <label>コパードデプロイヤー</label>
-        <name>Copado_Change_Management_Lightning</name>
+        <name>copado__Copado_Change_Management_Lightning</name>
     </customApplications>
     <customApplications>
         <label>コパードコンプライアンスハブ</label>
-        <name>Copado_Compliance_Hub</name>
+        <name>copado__Copado_Compliance_Hub</name>
     </customApplications>
     <customApplications>
         <label>コパードコンソール</label>
-        <name>Copado_Console</name>
+        <name>copado__Copado_Console</name>
     </customApplications>
     <customApplications>
         <label>コパードリリースマネジャー</label>
-        <name>Copado_Lightning</name>
+        <name>copado__Copado_Lightning</name>
     </customApplications>
     <customApplications>
         <label>コパード許可者</label>
-        <name>Copado_Permissioner</name>
+        <name>copado__Copado_Permissioner</name>
     </customApplications>
     <customApplications>
         <label>コパードプラン</label>
-        <name>Copado_Plan</name>
+        <name>copado__Copado_Plan</name>
     </customApplications>
     <customApplications>
         <label>コパードプラン</label>
-        <name>Copado_Plan_Lightning</name>
+        <name>copado__Copado_Plan_Lightning</name>
     </customApplications>
     <customApplications>
         <label>コパードSeleniumテスト</label>
-        <name>Copado_Selenium_Testing</name>
+        <name>copado__Copado_Selenium_Testing</name>
     </customApplications>
     <customLabels>
         <label>アカデミー</label>
