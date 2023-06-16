@@ -11349,7 +11349,7 @@
     </prompts>
     <reportTypes>
         <description>関数の実行履歴を表示</description>
-        <name>Functions_with_Results</name>
+        <name>copado__Functions_with_Results</name>
         <sections>
             <label>関数</label>
             <name>Functions</name>
@@ -11362,7 +11362,7 @@
     <reportTypes>
         <description>Gitバックアップ</description>
         <label>Gitバックアップ</label>
-        <name>Git_Backups</name>
+        <name>copado__Git_Backups</name>
         <sections>
             <label>Gitバックアップ</label>
             <name>Git Backups</name>
@@ -11371,7 +11371,7 @@
     <reportTypes>
         <description>組織クレデンシャルとスナップショットコミット、ユーザーストーリーコミット</description>
         <label>組織クレデンシャルとスナップショットコミット、ユーザーストーリーコミット</label>
-        <name>Org_Credentials_with_Snapshot_Commits_with_User_Story_Commits</name>
+        <name>copado__Org_Credentials_with_Snapshot_Commits_with_User_Story_Commits</name>
         <sections>
             <label>組織クレデンシャル</label>
             <name>Org Credentials</name>
@@ -11388,7 +11388,7 @@
     <reportTypes>
         <description>Gitバックアップをもつ組織</description>
         <label>Gitバックアップをもつ組織</label>
-        <name>Orgs_with_Git_Backups</name>
+        <name>copado__Orgs_with_Git_Backups</name>
         <sections>
             <label>Gitバックアップ</label>
             <name>Git_Backups</name>
@@ -11401,7 +11401,7 @@
     <reportTypes>
         <description>Seleniumテスト結果</description>
         <label>Seleniumテスト結果</label>
-        <name>Selenium_Test_Results</name>
+        <name>copado__Selenium_Test_Results</name>
         <sections>
             <label>Seleniumテスト結果</label>
             <name>Selenium Test Results</name>
@@ -11410,7 +11410,7 @@
     <reportTypes>
         <description>プルリクエストレビュー待ちのユーザーストーリー</description>
         <label>プルリクエストレビュー待ちのユーザーストーリー</label>
-        <name>User_Stories_with_Pull_Requests_with_Pull_Request_Reviews</name>
+        <name>copado__User_Stories_with_Pull_Requests_with_Pull_Request_Reviews</name>
         <sections>
             <label>プルリクエストレビュー</label>
             <name>Pull Request Reviews</name>
