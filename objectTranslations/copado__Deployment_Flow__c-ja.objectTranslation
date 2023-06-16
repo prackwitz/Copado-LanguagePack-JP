@@ -195,7 +195,7 @@
             <translation>セールスフォース</translation>
         </picklistValues>
     </fields>
-    <fields>
+    <!--<fields>
         <help>デプロイ前にユーザーストーリーをマージする際に使用する手順の一覧です。</help>
         <label>プロモーションの自動化</label>
         <lookupFilter>
@@ -203,12 +203,12 @@
         </lookupFilter>
         <name>copado__Promotion_Automation__c</name>
         <relationshipLabel>パイプライン</relationshipLabel>
-    </fields>
-    <fields>
+    </fields>-->
+    <!--<fields>
         <label>プロモーションジョブテンプレート</label>
         <name>copado__Promotion_Job_Template__c</name>
         <relationshipLabel>パイプライン</relationshipLabel>
-    </fields>
+    </fields>-->
     <fields>
         <help>デプロイメントフローにリンクされた環境またはユーザーストーリーで実行されるたびに、静的コード解析の設定が使用されます。</help>
         <label>静的コード分析設定</label>

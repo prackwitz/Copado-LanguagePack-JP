@@ -20,14 +20,14 @@
         <label>完了日時</label>
         <name>Completed_Time__c</name>
     </fields>-->
-    <fields>
+    <!--<fields>
         <label>デプロイメント時間（分）</label>
         <name>Deployment_Time_Minutes__c</name>
-    </fields>
-    <fields>
+    </fields>-->
+    <!--<fields>
         <label>開始日時</label>
         <name>Start_Time__c</name>
-    </fields>
+    </fields>-->
     <fields>
         <help>デプロイメント手順などでテンプレートを検索する場合、アクティブなテンプレートのみが検索対象となります。</help>
         <label>アクティブ</label>

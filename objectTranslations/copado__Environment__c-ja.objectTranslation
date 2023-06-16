@@ -44,7 +44,7 @@
         <label>現在のSCAスコア</label>
         <name>copado__Current_SCA_Score__c</name>
     </fields>
-    <fields>
+    <!--<fields>
         <help>パイプラインで定義されているデフォルトのデプロイメント動作を上書きするための自動化テンプレートを選択します。</help>
         <label>デプロイメントのオートメーション上書き</label>
         <lookupFilter>
@@ -52,7 +52,7 @@
         </lookupFilter>
         <name>copado__Deployment_Automation_Override__c</name>
         <relationshipLabel>環境（デプロイメント自動化上書き）</relationshipLabel>
-    </fields>
+    </fields>-->
     <fields>
         <label>デプロイメントジョブテンプレート上書き</label>
         <name>copado__Deployment_Job_Template_Override__c</name>
@@ -165,12 +165,12 @@
             <translation>ユーザーが組織クレデンシャルを持っていない場合のみ</translation>
         </picklistValues>
     </fields>
-    <fields>
+    <!--<fields>
         <label>プロモーションジョブテンプレート上書き</label>
         <name>copado__Promotion_Job_Template_Override__c</name>
         <relationshipLabel>環境</relationshipLabel>
-    </fields>
-    <fields>
+    </fields>-->
+    <!--<fields>
         <help>自動化テンプレートを選択して、パイプラインで定義されているデフォルトのプロモーション動作を上書きします。</help>
         <label>プロモーションオートメーション上書き</label>
         <lookupFilter>
@@ -178,7 +178,7 @@
         </lookupFilter>
         <name>copado__Promotion_Override__c</name>
         <relationshipLabel>環境（プロモーション自動化上書き）</relationshipLabel>
-    </fields>
+    </fields>-->
     <fields>
         <help>選択した場合、「すべてのローカルテストを実行」がこの環境にデプロイする際に適用されます。</help>
         <label>すべてのローカルテストを実行</label>
