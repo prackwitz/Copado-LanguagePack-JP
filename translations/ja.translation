@@ -11252,63 +11252,63 @@
     </customLabels>
     <customTabs>
         <label>アカウントの概要</label>
-        <name>Account_Summary</name>
+        <name>copado__Account_Summary</name>
     </customTabs>
     <customTabs>
         <label>コミットデータ</label>
-        <name>Commit_Data</name>
+        <name>copado__Commit_Data</name>
     </customTabs>
     <customTabs>
         <label>コンプライアンスを始めよう</label>
-        <name>Compliance_Getting_Started</name>
+        <name>copado__Compliance_Getting_Started</name>
     </customTabs>
     <customTabs>
         <label>コパード DXパネル</label>
-        <name>Copado_DX_Panel</name>
+        <name>copado__Copado_DX_Panel</name>
     </customTabs>
     <customTabs>
         <label>コパードライセンスマネジャー</label>
-        <name>Copado_License_Manager</name>
+        <name>copado__Copado_License_Manager</name>
     </customTabs>
     <customTabs>
         <label>コパードアクションAPI</label>
-        <name>Copado_Webhooks</name>
+        <name>copado__Copado_Webhooks</name>
     </customTabs>
     <customTabs>
         <label>はじめに</label>
-        <name>Getting_Started</name>
+        <name>copado__Getting_Started</name>
     </customTabs>
     <customTabs>
         <label>コパードライセンスマネジャ</label>
-        <name>License_Manager</name>
+        <name>copado__License_Manager</name>
     </customTabs>
     <customTabs>
         <label>通知センター</label>
-        <name>Notifications_Center</name>
+        <name>copado__Notifications_Center</name>
     </customTabs>
     <customTabs>
         <label>権限セットエクスプローラ</label>
-        <name>Permission_Set_Explorer</name>
+        <name>copado__Permission_Set_Explorer</name>
     </customTabs>
     <customTabs>
         <label>パイプラインマネージャー</label>
-        <name>Pipeline_Manager</name>
+        <name>copado__Pipeline_Manager</name>
     </customTabs>
     <customTabs>
         <label>Seleniumを始めよう</label>
-        <name>SeleniumGettingStarted</name>
+        <name>copado__SeleniumGettingStarted</name>
     </customTabs>
     <customTabs>
         <label>コパードエクステンション</label>
-        <name>StandardRecordStatus</name>
+        <name>copado__StandardRecordStatus</name>
     </customTabs>
     <customTabs>
         <label>コミットの変更</label>
-        <name>User_Story_Commit</name>
+        <name>copado__User_Story_Commit</name>
     </customTabs>
     <customTabs>
         <label>作業マネージャー</label>
-        <name>Work_Manager</name>
+        <name>copado__Work_Manager</name>
     </customTabs>
     <prompts>
         <label>データセット・ウォークスルー</label>
