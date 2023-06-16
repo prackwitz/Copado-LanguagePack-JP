@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label>コパードリリースマネジャー</label>
+        <name>Copado</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードテスト</label>
+        <name>CopadoTests</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードパイプラインマネジャー</label>
+        <name>Copado_Branch_Management</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードパイプラインマネジャー</label>
+        <name>Copado_Branch_Management_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードデプロイヤー</label>
+        <name>Copado_Change_Management</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードデプロイヤー</label>
+        <name>Copado_Change_Management_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードコンプライアンスハブ</label>
+        <name>Copado_Compliance_Hub</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードコンソール</label>
+        <name>Copado_Console</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードリリースマネジャー</label>
+        <name>Copado_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <label>コパード許可者</label>
+        <name>Copado_Permissioner</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードプラン</label>
+        <name>Copado_Plan</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードプラン</label>
+        <name>Copado_Plan_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <label>コパードSeleniumテスト</label>
+        <name>Copado_Selenium_Testing</name>
+    </customApplications>
     <customLabels>
         <label>アカデミー</label>
         <name>copado__ACADEMY</name>
@@ -189,7 +241,7 @@
         <name>copado__APEX_TEST</name>
     </customLabels>
     <customLabels>
-        <label><!-- APEX TESTS --></label>
+        <label></label>
         <name>copado__APEX_TESTS</name>
     </customLabels>
     <customLabels>
@@ -548,7 +600,7 @@
         <name>copado__ApiKeyNotSet</name>
     </customLabels>
     <customLabels>
-        <label><!-- API Key Placeholder --></label>
+        <label></label>
         <name>copado__ApiKeyPlaceholder</name>
     </customLabels>
     <customLabels>
@@ -1179,7 +1231,7 @@
         <name>copado__CLOSE</name>
     </customLabels>
     <customLabels>
-        <label><!-- CODE COVERAGE --></label>
+        <label></label>
         <name>copado__CODE_COVERAGE</name>
     </customLabels>
     <customLabels>
@@ -1516,7 +1568,7 @@
         <name>copado__CREATING_DEPLOYMENT</name>
     </customLabels>
     <customLabels>
-        <label><!-- CREDENTIAL METADATA NOT SUPPORTED --></label>
+        <label></label>
         <name>copado__CREDENTIAL_METADATA_NOT_SUPPORTED</name>
     </customLabels>
     <customLabels>
@@ -1616,7 +1668,7 @@
         <name>copado__Can_Not_Commit_More_Than_8000_Metadata</name>
     </customLabels>
     <customLabels>
-        <label><!-- Can Not Promote If Either No Deployment Steps or Metadata Commits --></label>
+        <label></label>
         <name>copado__Can_Not_Promote_If_Either_No_Deployment_Steps_or_Metadata_Commits</name>
     </customLabels>
     <customLabels>
@@ -1668,7 +1720,7 @@
         <name>copado__ChildObjectError</name>
     </customLabels>
     <customLabels>
-        <label><!-- Child Objects --></label>
+        <label></label>
         <name>copado__Child_Objects</name>
     </customLabels>
     <customLabels>
@@ -2485,7 +2537,7 @@
         <name>copado__DETAIL</name>
     </customLabels>
     <customLabels>
-        <label><!-- DETAILS --></label>
+        <label></label>
         <name>copado__DETAILS</name>
     </customLabels>
     <customLabels>
@@ -2561,7 +2613,7 @@
         <name>copado__DURATION</name>
     </customLabels>
     <customLabels>
-        <label><!-- DX --></label>
+        <label></label>
         <name>copado__DX</name>
     </customLabels>
     <customLabels>
@@ -3323,7 +3375,7 @@
         <name>copado__ENDING_COMMIT</name>
     </customLabels>
     <customLabels>
-        <label><!-- END OF LIFE --></label>
+        <label></label>
         <name>copado__END_OF_LIFE</name>
     </customLabels>
     <customLabels>
@@ -3487,11 +3539,11 @@
         <name>copado__EXTENSION_DETAILS</name>
     </customLabels>
     <customLabels>
-        <label><!-- EXTERNAL CI JOB --></label>
+        <label></label>
         <name>copado__EXTERNAL_CI_JOB</name>
     </customLabels>
     <customLabels>
-        <label><!-- EXTERNAL CI JOBS NO DATA --></label>
+        <label></label>
         <name>copado__EXTERNAL_CI_JOBS_NO_DATA</name>
     </customLabels>
     <customLabels>
@@ -3635,7 +3687,7 @@
         <name>copado__Environment_Variable</name>
     </customLabels>
     <customLabels>
-        <label><!-- Environment Variables --></label>
+        <label></label>
         <name>copado__Environment_Variables</name>
     </customLabels>
     <customLabels>
@@ -4781,7 +4833,7 @@
         <name>copado__InvalidNameformat</name>
     </customLabels>
     <customLabels>
-        <label><!-- Invalid Notification Channel --></label>
+        <label></label>
         <name>copado__InvalidNotificationChannel</name>
     </customLabels>
     <customLabels>
@@ -4810,11 +4862,11 @@
         <name>copado__InvalidRequest</name>
     </customLabels>
     <customLabels>
-        <label><!-- InvalidRequestError --></label>
+        <label></label>
         <name>copado__InvalidRequestError</name>
     </customLabels>
     <customLabels>
-        <label><!-- InvalidStepType --></label>
+        <label></label>
         <name>copado__InvalidStepType</name>
     </customLabels>
     <customLabels>
@@ -4922,11 +4974,11 @@
         <name>copado__JavaScript_General_Error</name>
     </customLabels>
     <customLabels>
-        <label><!-- JobHasNoStep --></label>
+        <label></label>
         <name>copado__JobHasNoStep</name>
     </customLabels>
     <customLabels>
-        <label><!-- JobInProgress --></label>
+        <label></label>
         <name>copado__JobInProgress</name>
     </customLabels>
     <customLabels>
@@ -5370,7 +5422,7 @@
         <name>copado__MainObject</name>
     </customLabels>
     <customLabels>
-        <label><!-- Main Object Filter --></label>
+        <label></label>
         <name>copado__Main_Object_Filter</name>
     </customLabels>
     <customLabels>
@@ -5618,7 +5670,7 @@
         <name>copado__MinVolumeTTLOptions</name>
     </customLabels>
     <customLabels>
-        <label><!-- MissingGitParameterValue --></label>
+        <label></label>
         <name>copado__MissingGitParameterValue</name>
     </customLabels>
     <customLabels>
@@ -6314,7 +6366,7 @@
         <name>copado__Object_Field_Help_Text</name>
     </customLabels>
     <customLabels>
-        <label><!-- Object Fields --></label>
+        <label></label>
         <name>copado__Object_Fields</name>
     </customLabels>
     <customLabels>
@@ -6770,7 +6822,7 @@
         <name>copado__ParentObjectError</name>
     </customLabels>
     <customLabels>
-        <label><!-- Parent Objects --></label>
+        <label></label>
         <name>copado__Parent_Objects</name>
     </customLabels>
     <customLabels>
@@ -7387,7 +7439,7 @@
         <name>copado__Quality_Gate_Condition_Not_Considered</name>
     </customLabels>
     <customLabels>
-        <label><!-- Quality Gate Rule Forbidden Action --></label>
+        <label></label>
         <name>copado__Quality_Gate_Rule_Forbidden_Action</name>
     </customLabels>
     <customLabels>
@@ -7787,7 +7839,7 @@
         <name>copado__Related_Object</name>
     </customLabels>
     <customLabels>
-        <label><!-- Relationship Diagram --></label>
+        <label></label>
         <name>copado__Relationship_Diagram</name>
     </customLabels>
     <customLabels>
@@ -7851,7 +7903,7 @@
         <name>copado__Remove_Row</name>
     </customLabels>
     <customLabels>
-        <label><!-- Remove selected option --></label>
+        <label></label>
         <name>copado__Remove_Selected_Option</name>
     </customLabels>
     <customLabels>
@@ -8456,7 +8508,7 @@
         <name>copado__START_TIME</name>
     </customLabels>
     <customLabels>
-        <label><!-- STATIC CODE ANALYSIS --></label>
+        <label></label>
         <name>copado__STATIC_CODE_ANALYSIS</name>
     </customLabels>
     <customLabels>
@@ -8566,7 +8618,7 @@
         <name>copado__STEP_TYPE_MANUAL_TASK</name>
     </customLabels>
     <customLabels>
-        <label><!-- STEP TYPE METADATA --></label>
+        <label></label>
         <name>copado__STEP_TYPE_METADATA</name>
     </customLabels>
     <customLabels>
@@ -8615,7 +8667,7 @@
         <name>copado__SUCCEEDED</name>
     </customLabels>
     <customLabels>
-        <label><!-- SUCCESS --></label>
+        <label></label>
         <name>copado__SUCCESS</name>
     </customLabels>
     <customLabels>
@@ -9449,11 +9501,11 @@
         <name>copado__SprintWall_Title</name>
     </customLabels>
     <customLabels>
-        <label><!-- Sprint Charts Require Start and End Dates --></label>
+        <label></label>
         <name>copado__Sprint_Charts_Require_Start_and_End_Dates</name>
     </customLabels>
     <customLabels>
-        <label><!-- Sprint Charts cannot be displayed --></label>
+        <label></label>
         <name>copado__Sprint_Charts_can_not_be_displayed</name>
     </customLabels>
     <customLabels>
@@ -9725,7 +9777,7 @@
         <name>copado__TC_WITH</name>
     </customLabels>
     <customLabels>
-        <label><!-- TEST --></label>
+        <label></label>
         <name>copado__TEST</name>
     </customLabels>
     <customLabels>
@@ -10373,7 +10425,7 @@
         <name>copado__USER_STORY_COVERAGE</name>
     </customLabels>
     <customLabels>
-        <label><!-- USER STORY DEFINITION --></label>
+        <label></label>
         <name>copado__USER_STORY_DEFINITION</name>
     </customLabels>
     <customLabels>
@@ -10605,7 +10657,7 @@
         <name>copado__User_Lookup_Warnings</name>
     </customLabels>
     <customLabels>
-        <label><!-- User Stories --></label>
+        <label></label>
         <name>copado__User_Stories</name>
     </customLabels>
     <customLabels>
@@ -10673,11 +10725,11 @@
         <name>copado__Using_Api_Keys</name>
     </customLabels>
     <customLabels>
-        <label><!-- VALIDATE EXTERNAL CI --></label>
+        <label></label>
         <name>copado__VALIDATE_EXTERNAL_CI</name>
     </customLabels>
     <customLabels>
-        <label><!-- VALIDATION --></label>
+        <label></label>
         <name>copado__VALIDATION</name>
     </customLabels>
     <customLabels>
@@ -11198,4 +11250,178 @@
         <label>宛先環境がパイプラインの一部ではない場合は、宛先のブランチが必要です。</label>
         <name>copado__targetBranchRequired</name>
     </customLabels>
+    <customTabs>
+        <label>アカウントの概要</label>
+        <name>Account_Summary</name>
+    </customTabs>
+    <customTabs>
+        <label>コミットデータ</label>
+        <name>Commit_Data</name>
+    </customTabs>
+    <customTabs>
+        <label>コンプライアンスを始めよう</label>
+        <name>Compliance_Getting_Started</name>
+    </customTabs>
+    <customTabs>
+        <label>コパード DXパネル</label>
+        <name>Copado_DX_Panel</name>
+    </customTabs>
+    <customTabs>
+        <label>コパードライセンスマネジャー</label>
+        <name>Copado_License_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label>コパードアクションAPI</label>
+        <name>Copado_Webhooks</name>
+    </customTabs>
+    <customTabs>
+        <label>はじめに</label>
+        <name>Getting_Started</name>
+    </customTabs>
+    <customTabs>
+        <label>コパードライセンスマネジャ</label>
+        <name>License_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label>通知センター</label>
+        <name>Notifications_Center</name>
+    </customTabs>
+    <customTabs>
+        <label>権限セットエクスプローラ</label>
+        <name>Permission_Set_Explorer</name>
+    </customTabs>
+    <customTabs>
+        <label>パイプラインマネージャー</label>
+        <name>Pipeline_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label>Seleniumを始めよう</label>
+        <name>SeleniumGettingStarted</name>
+    </customTabs>
+    <customTabs>
+        <label>コパードエクステンション</label>
+        <name>StandardRecordStatus</name>
+    </customTabs>
+    <customTabs>
+        <label>コミットの変更</label>
+        <name>User_Story_Commit</name>
+    </customTabs>
+    <customTabs>
+        <label>作業マネージャー</label>
+        <name>Work_Manager</name>
+    </customTabs>
+    <prompts>
+        <label>データセット・ウォークスルー</label>
+        <name>DataSetWalkthrough</name>
+        <promptVersions>
+            <body>&lt;p&gt;データセットは、ある組織データから取得されたデータをファイルにまとめたものになります。これらのファイルは、ユーザーが決定するまで、変更されずに保持されます。&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;span style=&quot;color：RGB（62,62,60;&quot;&gt;データセットはアカウントや連絡先、CPQ製品のコンフィグレーションや外部データソースなど様々なサンプルデータに対して作成されます。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;開発・テストのために、テストデータを含むデータセットを新しいサンドボックスや既存の環境に移行し活用して下さい。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</body>
+            <header>データセットへようこそ</header>
+            <label>データセット　ウォークスルーステップ１</label>
+            <name>Data Set Walkthrough Step 1</name>
+            <stepNumber>1</stepNumber>
+            <title>データセットとは？</title>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <label>ライセンスマネージャー　ウォークスルー</label>
+        <name>LicenseManagerWalkThrough</name>
+        <promptVersions>
+            <actionButtonLabel>ライセンスマネジャーアーティクル</actionButtonLabel>
+            <body>このプロンプトは無視してください。</body>
+            <dismissButtonLabel>閉じる</dismissButtonLabel>
+            <label>ライセンスマネジャーウォークスルー非有効化ステップ１</label>
+            <name>License Manager WalkthroughDeactivated Step 1</name>
+            <stepNumber>1</stepNumber>
+            <title>非有効化</title>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <label>リリースマネジャーアプリケーションのためのライセンスマネジャー・ウォークスルー</label>
+        <name>LicenseManagerWalkThroughForRMApp</name>
+        <promptVersions>
+            <body>ライセンスマネージャーを全面的に刷新しました。新機能を知るには、ウォークスルーを続けてください。</body>
+            <dismissButtonLabel>閉じる</dismissButtonLabel>
+            <label>リリースマネジャーアプリケーションのためのライセンスマネジャー・ウォークスルー　ステップ１</label>
+            <name>License Manager Walkthrough for Release Manager app Step 1</name>
+            <stepNumber>1</stepNumber>
+            <title>新しいライセンスマネージャへようこそ！</title>
+        </promptVersions>
+    </prompts>
+    <reportTypes>
+        <description>関数の実行履歴を表示</description>
+        <name>Functions_with_Results</name>
+        <sections>
+            <label>関数</label>
+            <name>Functions</name>
+        </sections>
+        <sections>
+            <label>結果</label>
+            <name>Results</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>Gitバックアップ</description>
+        <label>Gitバックアップ</label>
+        <name>Git_Backups</name>
+        <sections>
+            <label>Gitバックアップ</label>
+            <name>Git Backups</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>組織クレデンシャルとスナップショットコミット、ユーザーストーリーコミット</description>
+        <label>組織クレデンシャルとスナップショットコミット、ユーザーストーリーコミット</label>
+        <name>Org_Credentials_with_Snapshot_Commits_with_User_Story_Commits</name>
+        <sections>
+            <label>組織クレデンシャル</label>
+            <name>Org Credentials</name>
+        </sections>
+        <sections>
+            <label>スナップショットをコミット</label>
+            <name>Snapshot Commits</name>
+        </sections>
+        <sections>
+            <label>ユーザーストーリーのコミット</label>
+            <name>User Story Commits</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>Gitバックアップをもつ組織</description>
+        <label>Gitバックアップをもつ組織</label>
+        <name>Orgs_with_Git_Backups</name>
+        <sections>
+            <label>Gitバックアップ</label>
+            <name>Git_Backups</name>
+        </sections>
+        <sections>
+            <label>組織</label>
+            <name>Orgs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>Seleniumテスト結果</description>
+        <label>Seleniumテスト結果</label>
+        <name>Selenium_Test_Results</name>
+        <sections>
+            <label>Seleniumテスト結果</label>
+            <name>Selenium Test Results</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description>プルリクエストレビュー待ちのユーザーストーリー</description>
+        <label>プルリクエストレビュー待ちのユーザーストーリー</label>
+        <name>User_Stories_with_Pull_Requests_with_Pull_Request_Reviews</name>
+        <sections>
+            <label>プルリクエストレビュー</label>
+            <name>Pull Request Reviews</name>
+        </sections>
+        <sections>
+            <label>プルリクエスト</label>
+            <name>Pull Requests</name>
+        </sections>
+        <sections>
+            <label>ユーザーストーリー</label>
+            <name>User Stories</name>
+        </sections>
+    </reportTypes>
 </Translations>
