@@ -53,11 +53,11 @@
         <name>copado__Deployment_Automation_Override__c</name>
         <relationshipLabel>環境（デプロイメント自動化上書き）</relationshipLabel>
     </fields>-->
-    <fields>
+    <!--<fields>
         <label>デプロイメントジョブテンプレート上書き</label>
         <name>copado__Deployment_Job_Template_Override__c</name>
         <relationshipLabel>環境（デプロイメントジョブテンプレート上書き）</relationshipLabel>
-    </fields>
+    </fields>-->
     <fields>
         <help>この環境を宛先とするデプロイメント/プロモーションに対して、ロールバックを有効にします。ロールバックは、この機能を有効にした後に作成されたデプロイメント/プロモーションで利用できます。</help>
         <label>ロールバックを有効化</label>

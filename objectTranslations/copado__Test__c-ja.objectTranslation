@@ -111,10 +111,10 @@
         <label>テストツール</label>
         <name>copado__Test_Tool__c</name>
     </fields>
-    <fields>
+    <!--<fields>
         <label>ツール</label>
         <name>copado__Tool__c</name>
-    </fields>
+    </fields>-->
     <fields>
         <label>タイプ</label>
         <name>copado__Type__c</name>

@@ -4,10 +4,10 @@
         <label>コパードリリースマネジャー</label>
         <name>Copado</name>
     </customApplications>-->
-    <customApplications>
+    <!--<customApplications>
         <label>コパードテスト</label>
         <name>CopadoTests</name>
-    </customApplications>
+    </customApplications>-->
     <customApplications>
         <label>コパードパイプラインマネジャー</label>
         <name>Copado_Branch_Management</name>

@@ -217,11 +217,11 @@
         <label>失敗したメソッド</label>
         <name>copado__Failing_Methods__c</name>
     </fields>
-    <fields>
+    <!--<fields>
         <label>フィーチャー（機能）</label>
         <name>copado__Feature__c</name>
         <relationshipLabel>ユーザーストーリー</relationshipLabel>
-    </fields>
+    </fields>-->
     <fields>
         <label>機能仕様</label>
         <name>copado__Functional_Specifications__c</name>
