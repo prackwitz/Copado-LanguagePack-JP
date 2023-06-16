@@ -13,10 +13,10 @@
         <name>copado__Application__c</name>
         <relationshipLabel>テスト</relationshipLabel>
     </fields>
-    <fields>
+    <!--<fields>
         <label>テストタイプ</label>
         <name>copado__Category__c</name>
-    </fields>
+    </fields>-->
     <fields>
         <label>設定</label>
         <name>copado__Configuration__c</name>

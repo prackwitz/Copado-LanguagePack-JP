@@ -16,10 +16,10 @@
         <label>パイプラインデプロイメントモダル</label>
         <name>copado__Pipeline_Deployment_Modal</name>
     </fieldSets>
-    <fields>
+    <!--<fields>
         <label>完了日時</label>
         <name>Completed_Time__c</name>
-    </fields>
+    </fields>-->
     <fields>
         <label>デプロイメント時間（分）</label>
         <name>Deployment_Time_Minutes__c</name>

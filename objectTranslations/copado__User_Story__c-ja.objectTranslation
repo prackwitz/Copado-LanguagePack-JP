@@ -68,12 +68,12 @@
         <label>ワークマネージャの関係</label>
         <name>copado__Work_Manager_Relations</name>
     </fieldSets>
-    <fields>
+    <!--<fields>
         <help>リクエストに最も近い機能を選択する</help>
         <label>関連フィーチャー</label>
         <name>Associated_Feature__c</name>
         <relationshipLabel>ユーザーストーリー（関連フィーチャー）</relationshipLabel>
-    </fields>
+    </fields>-->
     <fields>
         <label>コパードリリース</label>
         <name>Copado_Release__c</name>
